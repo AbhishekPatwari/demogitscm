@@ -1,1 +1,1 @@
-# demojenkins - test updated!
+# demo-gitscm - test updated!
